@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/IPL-Analytics-Intelligence-Hub-Banner.png" width="100%" />
+  <img src="Assets/10.1-IPL-Analytics-Intelligence-Hub-Banner.png" width="100%" />
 </p>
 
 # 🏏 IPL Analytics Intelligence Hub
@@ -8,8 +8,6 @@
 
 > Ball-by-Ball Match Analytics, Franchise Strategy Intelligence & Player Performance Modeling (2008 - 2025)  
 > A comprehensive analytical system built using historical IPL match data.
-
----
 
 ## 📌 Project Overview
 
@@ -37,24 +35,22 @@ The goal of this project is to transform raw cricket match data into **interacti
 ![League Stats](Assets/2-League-Stats.png)
 
 ### 📈 League Evolution
-![League Evolution](Assets/8-League-Evolution.png)
+![League Evolution](Assets/3-League-Evolution.png)
 
 ### 🏏 Match Centre
-![Match Centre](Assets/3-Match-Centre.png)
+![Match Centre](Assets/4-Match-Centre.png)
 
-### 🧠 Strategy Lab
-![Strategy Lab](Assets/5-Strategy-Lab.png)
+### 🧠 Match Strategy Lab
+![Strategy Lab](5-Match-Strategy-Lab.png)
 
 ### 🏆 Franchise Intelligence
-![Franchise Intelligence](Assets/4-Franchise-Intelligence.png)
+![Franchise Intelligence](Assets/6-Franchise-Intelligence.png)
 
 ### 👤 Player Intelligence
-![Player Intelligence](Assets/6-Player-Intelligence.png)
+![Player Intelligence](7-Player-Impact-Intelligence.png)
 
 ### ⚔️ Rivalry Intelligence
-![Rivalry Intelligence](Assets/7-Rivalry-Intelligence.png)
-
----
+![Rivalry Intelligence](Assets/8-Rivalry-Intelligence.png)
 
 ## 🎯 Problem Statement
 
@@ -73,14 +69,10 @@ This project addresses several analytical questions:
 
 The dashboard transforms complex match data into **interactive analytical insights for cricket strategy and performance evaluation**.
 
----
-
 ## 📊 Dashboard Structure
 
 ### 🏠 Home – Project Overview  
 Provides a high-level introduction to the analytics platform and navigation to the various analytical modules.
-
----
 
 ### 📊 League Stats – Macro IPL Analysis  
 
@@ -93,8 +85,6 @@ League-level insights including:
 
 This module provides a **macro view of the IPL ecosystem**.
 
----
-
 ### 📈 League Evolution – Historical IPL Trends  
 
 Analyzes how the IPL has evolved across seasons:
@@ -105,8 +95,6 @@ Analyzes how the IPL has evolved across seasons:
 - Long-term league trends
 
 This module reveals **the evolution of T20 cricket strategy over time**.
-
----
 
 ### 🏏 Match Centre – Individual Match Intelligence  
 
@@ -119,9 +107,7 @@ Detailed match analysis including:
 
 Designed to replicate the **analytical depth of professional match dashboards**.
 
----
-
-### 🧠 Strategy Lab – Tactical Match Insights  
+### 🧠 Match Strategy Lab – Tactical Match Insights  
 
 Focuses on match strategy patterns including:
 
@@ -131,8 +117,6 @@ Focuses on match strategy patterns including:
 - Pressure scenario outcomes
 
 This module provides insights into **strategic decision-making in T20 cricket**.
-
----
 
 ### 🏆 Franchise Intelligence – Team Performance Analytics  
 
@@ -146,8 +130,6 @@ Analyzes franchise performance across IPL seasons:
 
 This module highlights **long-term franchise competitiveness**.
 
----
-
 ### 👤 Player Intelligence – Individual Performance Analytics  
 
 Analyzes player contributions including:
@@ -160,8 +142,6 @@ Analyzes player contributions including:
 
 This module highlights **player influence across IPL seasons**.
 
----
-
 ### ⚔️ Rivalry Intelligence – Head-to-Head Battles  
 
 Analyzes franchise rivalries including:
@@ -173,8 +153,6 @@ Analyzes franchise rivalries including:
 
 This module visualizes **the most competitive matchups in IPL history**.
 
----
-
 ## 🛠 Tools & Technologies
 
 - Power BI Desktop  
@@ -184,8 +162,6 @@ This module visualizes **the most competitive matchups in IPL history**.
 - DAX (Data Analysis Expressions)  
 - Power Query (ETL)  
 - Star Schema Data Modeling  
-
----
 
 ## 🧩 Data Modeling Approach
 
@@ -210,8 +186,6 @@ The model is optimized for:
 - Cross-filtering
 - Drill-down analytics
 - Interactive visual performance
-
----
 
 ## 📂 Data Sources
 
@@ -238,8 +212,6 @@ To reproduce the project:
 3. Generate analytical CSV datasets
 4. Load them into Power BI
 
----
-
 ## 📈 Key Insights
 
 The analytics platform reveals several interesting IPL insights:
@@ -249,8 +221,6 @@ The analytics platform reveals several interesting IPL insights:
 - Certain franchises demonstrate consistent dominance across multiple seasons.
 - Rivalries between top franchises show highly competitive win distributions.
 - Batting strike rates and run progression patterns highlight evolving T20 strategies.
-
----
 
 ## 💡 Business Value
 
@@ -265,8 +235,6 @@ This dashboard demonstrates capabilities in:
 
 These analytical techniques are applicable to **sports analytics, performance analysis, and strategy modeling**.
 
----
-
 ## 📁 Repository Structure
 - Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
 - Datasets contain Dataset References (no raw data included).
@@ -274,28 +242,29 @@ These analytical techniques are applicable to **sports analytics, performance an
 - *IPL Analytics Intelligence Hub.pbix* is the Complete Interactive Power BI Dashboard.
 
 ```text
-PhonePe-Pulse-360-Geospatial-Financial-Analytics/
+Indian-Premier-League-Analytics-Intelligence-Hub/
 │
 ├── Assets/
 │   ├── 1-Home.png
-│   ├── 2-DigiIND-Command-Center.png
-│   ├── 3-Regional-Warfare.png
-│   ├── 4-Consumer-Insights.png
-│   ├── 5-Category-Analysis.png
-│   ├── 6.1-Growth-Engine.png
-│   ├── 6.2-Growth-Engine.png
-│   ├── 7-PhonePe-Pulse-360-Complete-Walkthrough.pdf
-│   ├── 8.1-PhonePe-Pulse-360-Banner.png
-│   └── 8.2-PhonePe-Pulse-360-Social-Preview.png
+│   ├── 2-League-Stats.png
+│   ├── 3-League-Evolution.png
+│   ├── 4-Match-Centre.png
+│   ├── 5-Match-Strategy-Lab.png
+│   ├── 6-Franchise-Intelligence.png
+│   ├── 7-Player-Impact-Intelligence.png
+│   ├── 8-Rivalry-Intelligence.png
+│   ├── 9-IPL-Analytics-Intelligence-Hub-Complete-Walkthrough.pdf
+│   ├── 10.1-IPL-Analytics-Intelligence-Hub-Banner.png
+│   └── 10.2-IPL-Analytics-Intelligence-Hub-Social-Preview.png
 │
 ├── Datasets/      
 │   └── Data-Sources.md
 │
 ├── Scripts/      
 │   ├── DAX-Measures.md
-│   └── PhonePe_Extraction.ipynb
+│   └── IPL_Extraction.ipynb
 │
-├── PhonePe Pulse 360.pbix
+├── IPL Analytics Intelligence Hub.pbix
 │
 └── README.md
 ```
