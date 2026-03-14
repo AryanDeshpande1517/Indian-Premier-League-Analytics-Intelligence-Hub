@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/10.1-IPL-Analytics-Intelligence-Hub-Banner.png" width="100%" />
+  <img src="Assets/IPL-Analytics-Intelligence-Hub-Banner.png" width="100%" />
 </p>
 
 # 🏏 IPL Analytics Intelligence Hub
@@ -254,8 +254,8 @@ Indian-Premier-League-Analytics-Intelligence-Hub/
 │   ├── 7-Player-Impact-Intelligence.png
 │   ├── 8-Rivalry-Intelligence.png
 │   ├── 9-IPL-Analytics-Intelligence-Hub-Complete-Walkthrough.pdf
-│   ├── 10.1-IPL-Analytics-Intelligence-Hub-Banner.png
-│   └── 10.2-IPL-Analytics-Intelligence-Hub-Social-Preview.png
+│   ├── IPL-Analytics-Intelligence-Hub-Banner.png
+│   └── IPL-Analytics-Intelligence-Hub-Social-Preview.png
 │
 ├── Datasets/      
 │   └── Data-Sources.md
