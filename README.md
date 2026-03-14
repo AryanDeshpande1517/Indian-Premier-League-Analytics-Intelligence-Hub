@@ -41,13 +41,13 @@ The goal of this project is to transform raw cricket match data into **interacti
 ![Match Centre](Assets/4-Match-Centre.png)
 
 ### 🧠 Match Strategy Lab
-![Strategy Lab](5-Match-Strategy-Lab.png)
+![Strategy Lab](Assets/5-Match-Strategy-Lab.png)
 
 ### 🏆 Franchise Intelligence
 ![Franchise Intelligence](Assets/6-Franchise-Intelligence.png)
 
 ### 👤 Player Intelligence
-![Player Intelligence](7-Player-Impact-Intelligence.png)
+![Player Intelligence](Assets/7-Player-Impact-Intelligence.png)
 
 ### ⚔️ Rivalry Intelligence
 ![Rivalry Intelligence](Assets/8-Rivalry-Intelligence.png)
